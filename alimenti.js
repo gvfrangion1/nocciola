@@ -1,0 +1,204 @@
+// GENERATO da build.py a partire da alimenti.json - non modificare a mano
+window.ALIMENTI_DEFAULT = {
+ "obiettivo_g": 5,
+ "alimenti": [
+  {
+   "id": "nutella",
+   "nome": "Nutella",
+   "marca": "Ferrero",
+   "categoria": "Creme spalmabili",
+   "unita": "grammi",
+   "pct": 13,
+   "porzione_g": 10,
+   "porzione_nome": "cucchiaino (10 g)",
+   "g_foglio": 1.3
+  },
+  {
+   "id": "nocciolata",
+   "nome": "Crema Nocciolata L'originale",
+   "marca": "Rigoni di Asiago",
+   "categoria": "Creme spalmabili",
+   "unita": "grammi",
+   "pct": 18.5,
+   "porzione_g": 10,
+   "porzione_nome": "cucchiaino (10 g)",
+   "g_foglio": 1.8
+  },
+  {
+   "id": "novi",
+   "nome": "Crema Novi",
+   "marca": "Novi",
+   "categoria": "Creme spalmabili",
+   "unita": "grammi",
+   "pct": 45,
+   "porzione_g": 10,
+   "porzione_nome": "cucchiaino (10 g)",
+   "g_foglio": 4.5
+  },
+  {
+   "id": "ringo_nocciola",
+   "nome": "Ringo nocciola",
+   "marca": "Pavesi",
+   "categoria": "Biscotti",
+   "unita": "pezzi",
+   "pct": 0.75,
+   "pezzo_g": 9,
+   "pezzo_nome": "biscotto",
+   "g_foglio": 0.07
+  },
+  {
+   "id": "ringo_biscocioc",
+   "nome": "Ringo Biscocioc",
+   "marca": "Pavesi",
+   "categoria": "Biscotti",
+   "unita": "pezzi",
+   "pct": 0.9,
+   "pezzo_g": 27,
+   "pezzo_nome": "biscotto",
+   "g_foglio": 0.245
+  },
+  {
+   "id": "oro_ciok",
+   "nome": "Oro Ciok Nocciola",
+   "marca": "Saiwa",
+   "categoria": "Biscotti",
+   "unita": "pezzi",
+   "pct": 3,
+   "pezzo_g": 25,
+   "pezzo_nome": "monoporzione",
+   "g_foglio": 0.75
+  },
+  {
+   "id": "pan_di_stelle",
+   "nome": "Biscotti Pan di Stelle",
+   "marca": "Mulino Bianco",
+   "categoria": "Biscotti",
+   "unita": "pezzi",
+   "pct": 0.8,
+   "pezzo_g": 7.8,
+   "pezzo_nome": "biscotto",
+   "g_foglio": 0.062
+  },
+  {
+   "id": "baiocchi",
+   "nome": "Biscotti Baiocchi",
+   "marca": "Mulino Bianco",
+   "categoria": "Biscotti",
+   "unita": "pezzi",
+   "pct": 7.1,
+   "pezzo_g": 9.3,
+   "pezzo_nome": "biscotto",
+   "g_foglio": 0.66
+  },
+  {
+   "id": "grancereale_cioc",
+   "nome": "Grancereale cioccolato",
+   "marca": "Mulino Bianco",
+   "categoria": "Biscotti",
+   "unita": "pezzi",
+   "pct": 2.5,
+   "pezzo_g": 10.8,
+   "pezzo_nome": "biscotto",
+   "g_foglio": 0.27
+  },
+  {
+   "id": "grancereale_frutta",
+   "nome": "Grancereale frutta",
+   "marca": "Mulino Bianco",
+   "categoria": "Biscotti",
+   "unita": "pezzi",
+   "pct": 1.4,
+   "pezzo_g": 11.2,
+   "pezzo_nome": "biscotto",
+   "g_foglio": 0.157
+  },
+  {
+   "id": "grancereale_barretta",
+   "nome": "Barretta Grancereale nocciole e cioccolato fondente",
+   "marca": "Mulino Bianco",
+   "categoria": "Biscotti",
+   "unita": "pezzi",
+   "pct": 6.5,
+   "pezzo_g": 35,
+   "pezzo_nome": "barretta",
+   "g_foglio": 2.28
+  },
+  {
+   "id": "baci_di_dama",
+   "nome": "Baci di dama",
+   "marca": "",
+   "categoria": "Biscotti",
+   "unita": "pezzi",
+   "pct": 17,
+   "pezzo_g": 11,
+   "pezzo_nome": "biscotto",
+   "g_foglio": null
+  },
+  {
+   "id": "duplo",
+   "nome": "Duplo Nocciolato",
+   "marca": "Ferrero",
+   "categoria": "Snack",
+   "unita": "pezzi",
+   "pct": 17,
+   "pezzo_g": 26,
+   "pezzo_nome": "duplo",
+   "g_foglio": 4.42
+  },
+  {
+   "id": "tronky",
+   "nome": "Tronky",
+   "marca": "Ferrero",
+   "categoria": "Snack",
+   "unita": "pezzi",
+   "pct": 19,
+   "pezzo_g": 18,
+   "pezzo_nome": "tronky",
+   "g_foglio": 3.42
+  },
+  {
+   "id": "kinder_bueno",
+   "nome": "Kinder Bueno",
+   "marca": "Ferrero",
+   "categoria": "Snack",
+   "unita": "pezzi",
+   "pct": 10.8,
+   "pezzo_g": 21.5,
+   "pezzo_nome": "barretta (1/2 confezione)",
+   "g_foglio": 2.32
+  },
+  {
+   "id": "yogurt_vipiteno",
+   "nome": "Yogurt intero nocciola",
+   "marca": "Vipiteno",
+   "categoria": "Yogurt",
+   "unita": "pezzi",
+   "pct": 1.2,
+   "pezzo_g": 125,
+   "pezzo_nome": "vasetto (125 g)",
+   "g_foglio": 1.5
+  },
+  {
+   "id": "yogurt_esselunga",
+   "nome": "Yogurt greco nocciola",
+   "marca": "Esselunga",
+   "categoria": "Yogurt",
+   "unita": "pezzi",
+   "pct": 0.6,
+   "pezzo_g": 150,
+   "pezzo_nome": "vasetto (150 g)",
+   "g_foglio": 0.9
+  },
+  {
+   "id": "nocciole",
+   "nome": "Nocciole intere",
+   "marca": "",
+   "categoria": "Nocciola pura",
+   "unita": "grammi",
+   "pct": 100,
+   "porzione_g": 1,
+   "porzione_nome": "1 g (circa 1 nocciola)",
+   "g_foglio": null
+  }
+ ]
+};
