@@ -124,6 +124,17 @@ window.ALIMENTI_DEFAULT = {
    "g_foglio": 2.28
   },
   {
+   "id": "kinderini",
+   "nome": "Biscotti Kinderini",
+   "marca": "Kinder (Ferrero)",
+   "categoria": "Biscotti",
+   "unita": "pezzi",
+   "pct": 2,
+   "pezzo_g": 12.5,
+   "pezzo_nome": "biscotto",
+   "g_foglio": null
+  },
+  {
    "id": "baci_di_dama",
    "nome": "Baci di dama",
    "marca": "",

@@ -1,5 +1,5 @@
 // Service worker: rende l'app disponibile offline. La versione della cache e' aggiornata da build.py.
-const CACHE = 'nocciola-20261110-2150';
+const CACHE = 'nocciola-20261111-1010';
 const FILES = ['./', './index.html', './alimenti.js', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png'];
 
 self.addEventListener('install', e => {
